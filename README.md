@@ -1,1 +1,2 @@
 # odin-recipes
+I am creating recipes using the odin recipe guide, at the end of this lesson i should be able to create a repository in github,clone it onto a local machine using ssh,call directories,add texts to my README.md file,add my code to github,stage and commit it then push it to github.
